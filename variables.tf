@@ -21,5 +21,5 @@ variable "tag_name" {
 
 variable "ami_id" {
   description = "AMI for Linux "
-  default     = "ami-0b5eea76982371e91"
+  default     = "ami-0574da719dca65348"
 }
