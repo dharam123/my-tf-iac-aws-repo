@@ -1,5 +1,5 @@
 provider "aws" {
-  region     = "us-west-2"
+  region     = "us-east-1"
 }
 #Create security group with firewall rules
 resource "aws_security_group" "my_security_group" {
